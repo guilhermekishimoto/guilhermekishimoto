@@ -6,4 +6,4 @@ My technical interests revolve around Kubernetes, AWS, and infrastructure as cod
 
 I’m particularly interested in infrastructure design and in continuously improving how software is structured, deployed, and operated.
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-kishimoto-1382ba3a2)
+  <a href="https://www.linkedin.com/in/guilherme-kishimoto-1382ba3a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
