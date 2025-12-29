@@ -5,3 +5,5 @@ I'm a Software Engineer focused on cloud engineering. My background is centered 
 My technical interests revolve around Kubernetes, AWS, and infrastructure as code with Terraform, as well as backend systems and platform architecture. I value clear documentation, maintainable designs, and well-defined system boundaries.
 
 I’m particularly interested in infrastructure design and in continuously improving how software is structured, deployed, and operated.
+
+[LinkedIn](https://www.linkedin.com/in/guilherme-kishimoto-1382ba3a2)
